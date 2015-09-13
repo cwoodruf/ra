@@ -1,5 +1,5 @@
 # ra
-Research Assistant Questionnaire Compiler
+## Research Assistant Questionnaire Compiler
 
 Research Assistant is a prototype toolset for developing and deploying questionnaires.
 
