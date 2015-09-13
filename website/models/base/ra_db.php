@@ -6,6 +6,6 @@ class RaDB {
 		'db' => 'ra',
 		'host' => 'localhost',
 		'login' => 'ra',
-		'pw' => 'qBGmjVTJjb',
+		'pw' => '',
 	);
 }
