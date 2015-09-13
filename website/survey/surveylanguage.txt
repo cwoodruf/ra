@@ -1,0 +1,248 @@
+-=Survey writing notes=-
+
+A survey is a collection of sections. Each section is defined thus:
+
+s. Section title
+
+COMMENTS
+
+C and C++ style comments are permitted. Examples:
+
+ not commented /*
+ 
+ multline C style comment
+ 
+ */ not commented
+ 
+ not commented // single line C++ comment
+
+
+QUESTIONS
+
+A section can have one or more questions:
+
+ q. first question 
+ Can be on multiple lines.
+ 
+ Blank lines are ok too.
+ .
+
+Each question ends if another "q." or a line starting with a "." is seen.
+
+To identify answers to a question use "a.":
+
+ q. second question
+ a.
+ [1] Yes
+ [2] No
+ .
+
+The "a." can be used in front of each answer or only once. 
+Unlike questions, answers are assumed to be one per line.
+Answers can have context questions. Identify these with cq.:
+
+ q. third question
+ a.[1] Yes
+ cq. What do you mean?
+ a.[____]
+ .
+ a.[2] No
+ .
+
+In this case the "." at the end of the context question is
+needed to show that the next answer belongs to the top level 
+question.
+
+Use indents to make context questions easier to spot:
+
+ q. third question
+ a.
+ [1] Yes
+         cq. 
+         What do you mean?
+         a.
+         [____]
+         .
+ [2] No
+ .
+
+White space is removed automatically by the parser.
+
+Context questions can be nested:
+
+ q. Did you see anything?
+ a.
+ [1] Yes
+         cq. Do you recall how many?
+         a.
+         [1] No
+         [99] Yes
+         	cq. how many exactly?
+         	a.__ __
+         	.
+         .
+ [2] No
+ .
+
+While questions are automatically numbered they can be given 
+explicit ids. These can be useful if some questions need to 
+be skipped over:
+
+ q. Do you meet the criteria for these questions?
+ a.[1] Yes
+ a.[2] No [goto END]
+ .
+ 
+ . . .
+ 
+ q.END That is all the questions I have
+ .
+
+See GOTO for more on skipping to specific questions.
+
+ANSWERS
+
+* Answer types currently recognized (T = can be numbers or letters, N = must be numbers):
+  Use # instead of numbers and the radio or checkbox will be automatically numbered based
+  on where it is in the sequence of answers.
+
+[T]         	radio
+(T)        	radio
+{T}         	checkbox
+|T|T|...        select:  each T between the |s is an option
+N~N        	select that is just a range of numbers: first # can be bigger than second
+___         	text entry: variable size, not checked
+__ __         	number entry (basically same as text entry): variable size, checked 
+[___]         	text area (multiline): not checked
+y/m/d        	date can be any combo of y,m,d or Y,M,D separated by - or /: checked
+timestamp       text field with today's date and time
+datepicker	calendar style date picker
+
+
+MACROS
+
+* Macros - define a repeated section of text once and reuse it. 
+  Text is blindly inserted before the questionnaire is processed.
+
+  To start a macro use the form:
+
+ =varname
+  varname must be letters, numbers or underscores.
+  = sign may be indented.
+  Text after this will be included in a macro with that name
+  until a line = sign is encountered:
+ =
+
+Example:
+
+ q. Do you smoke?
+ ynexplain
+ 
+ =ynexplain
+ [1] yes
+         cq. please explain
+         a.[____]
+         .
+ [2] no
+ =
+
+Macros can be placed anywhere in the section. Macros 
+can contain other macros.
+
+Macros are literally pasted into the text of the survey. 
+Note that in the following example the lack of "." at the
+end of the "yesnoexplain" macro defined above allows 
+us to add context questions for the "[2] no" answer later. 
+Example:
+
+ q. Are you currently working?
+ ynexplain
+     cq. If not are you currently looking for work?
+     ynexplain
+     .
+
+Fully expanded:
+
+ q. Are you currently working?
+ a.
+ [1] yes
+         cq. please explain
+         a.[____]
+         .
+ [2] no
+     cq. If not are you currently looking for work?
+     [1] yes
+             cq. please explain
+             a.[____]
+             .
+     [2] no
+     .
+
+MACRO PARAMETERS
+
+Macros can have parameters. A parameter is any sequence of
+non-space characters separated by spaces. Macro names can
+be used as paramter values and these will be evaluated.
+Use quotes to encapsulate macros with parameters. 
+Examples:
+ =MACRO arg1 $arg2 "arg3"
+ "arg3", arg1, $arg2,
+ =
+
+ MACRO first second "last 'one'"
+
+This invocation of MACRO will look like this fully expanded:
+ last 'one', first, second
+
+Invoked with no arguments an empty string would be expanded
+for each argument:
+ MACRO
+
+Becomes
+ ,,
+
+Macros can be used as arguments:
+ =MACRO arg1 $arg2 "arg3"
+ "arg3"
+ arg1
+ $arg2
+ =
+
+ =MACRO2 $name
+ hi there $name
+ =
+ MACRO "MACRO2 Steve" second third
+
+Would become
+ third
+ hi there Steve
+ second
+
+If the original arrangement of arguments in MACRO were used
+MACRO2 would not be invoked as it would not be by itself on
+a single line.
+ 
+GOTO 
+
+Sometimes you want to skip questions when conducting an
+interview. To indicate this in a questionnaire use [goto LABEL].
+Example:
+
+ q. Have you ever been homeless?
+ a.
+ [1] yes
+ [2] no [goto NEVERHOMELESS]
+ .
+
+ q. When was the last time you were homeless? 
+ a. y/m/d
+ .
+
+ q.NEVERHOMELESS Some other question
+ .
+
+Adding the [goto ...] construct in a questionnaire will add a
+link to the question. This only makes sense for top level 
+questions. The link will not work if the label applies to a
+context question.
+

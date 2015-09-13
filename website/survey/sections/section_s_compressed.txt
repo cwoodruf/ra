@@ -1,0 +1,4846 @@
+s.S Prenatal Service Use
+
+q. Please tell me about the public services you've used in the past 4 weeks. I
+have a list of services that I'll go through to help jog your memory.
+Please let me know if you have accessed the service, or are waiting to
+access the service.
+.
+q. Financial Assistance
+
+{3} Income Assistance (includes Disability, Hardship)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{4} Employment Insurance ? Maternity Benefits
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{5} Special refundable tax rebates (GST/HST rebates)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{6} Medical Services Premium Assistance
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{7} Rental Assistance
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{8} Adult Basic Education (ABE) Student Assistance Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{9} At Home Respite Benefits
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{10} Non-Insured Health Benefits Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{11} Other financial benefits
+a.[1] I have accessed this service
+	cq. Name of service:
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+q. Pregnancy Related Programs
+.
+{13} Pregnancy Outreach Program (Includes CPNP, POPs, Healthiest Babies
+Possible)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+	cq. Did you try to access this service?
+	a.[1] Yes
+		cq. How many times have you tried to access this service in the last 4 weeks?
+		a.__ __
+		.
+		cq. Please indicate the types of barriers that prevented you from accessing
+this service? (If more than one, please list all)
+		a.{1} Service not offered at a convenient time (e.g., during ?business? hours only)
+		a.{2} Service not offered at a convenient location (e.g., across town or out of town)
+		a.{3} Did not have the resources to travel to the service (e.g., no bus or taxi fare)
+		a.{4} Found the other costs to get there too high (e.g. time off work/school)
+		a.{5} Health problems interfered (e.g. physical or mental health problems including substances)
+		a.{6} Family problems interfered (e.g. unstable living situation, intimate partner violence)
+		a.{7} Service not available (e.g., after hours primary healthcare)
+		a.{8} Other 
+			cq. Please specify:
+			a.____
+			.
+		.
+	a.[2] No
+		cq. Please indicate what prevented you from trying to access this service:
+		a.[1] Perceived service as unnecessary (e.g., believed the service was not needed)
+		a.[2] Perceived service as ineffective (e.g., believed the service did not help)
+		a.[3] Perceived service as insensitive (e.g., culturally inappropriate)
+		a.[4] Was ashamed/embarrassed to seek service (e.g., stigma associated with mental health/substances)
+		a.[5] Perceived service as hostile (e.g., might result in child protection/apprehension)
+		a.[6] Used another service altogether (e.g., naturopathy or cultural practices)
+		a.[7] Unaware of what this service is or it's importance
+		a.[8] Other
+			cq. Please specify:
+			a.____
+			.
+		.
+	.
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{14} Prenatal Education (Prenatal classes for childbirth, breastfeeding, infant
+care, etc.)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+	cq. Did you try to access this service?
+	a.[1] Yes
+		cq. How many times have you tried to access this service in the last 4 weeks?
+		a.Number of times: __ __
+		.
+		cq. Please indicate the types of barriers that prevented you from accessing
+this service? (If more than one, please list all)
+		a.{1} Service not offered at a convenient time (e.g., during ?business? hours only)
+		a.{2} Service not offered at a convenient location (e.g., across town or out of town)
+		a.{3} Did not have the resources to travel to the service (e.g., no bus or taxi fare)
+		a.{4} Found the other costs to get there too high (e.g. time off work/school)
+		a.{5} Health problems interfered (e.g. physical or mental health problems including substances)
+		a.{6} Family problems interfered (e.g. unstable living situation, intimate partner violence)
+		a.{7} Service not available (e.g., after hours primary healthcare)
+		a.{8} Other 
+			cq. Please specify: 
+			a.____
+			.
+		.
+	a.[2] No
+		cq. Please indicate what prevented you from trying to access this service:
+		a.[1] Perceived service as unnecessary (e.g., believed the service was not needed)
+		a.[2] Perceived service as ineffective (e.g., believed the service did not help)
+		a.[3] Perceived service as insensitive (e.g., culturally inappropriate)
+		a.[4] Was ashamed/embarrassed to seek service (e.g., stigma associated with mental health/substances)
+		a.[5] Perceived service as hostile (e.g., might result in child protection/apprehension)
+		a.[6] Used another service altogether (e.g., naturopathy or cultural practices)
+		a.[7] Unaware of what this service is or it's importance
+		a.[8] Other
+			cq. Please specify:
+			a.____
+			.
+		.
+	.
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{15} Family Resource Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{16} Prenatal/parenting program for youth (includes school based programming)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{17} Adoption Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{18} First Nations and Aboriginal Support Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{19} Multicultural Support Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{20} Other pregnancy related support programs
+a.[1] I have accessed this service
+	cq. Name of service
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+Mental Health/Crisis Intervention
+.
+{22} Adult Outpatient Mental Health Clinic (Community Mental Health Team)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{23} Reproductive Mental Health Services (includes professionally led groups,
+psychiatry, etc.)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{24} Child and Youth Mental Health Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{25} Youth Forensic Psychiatric Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{26} Community Counseling Services (e.g. Adult or Family Services)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{27} Crisis Intervention Services (includes Intimate Partner Violence Services)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{28} Primary Care Provider
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{29} Peer Support (e.g. Pacific Postpartum Support Society)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{30} Victim Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{31} Family Support Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{32} Other: 
+a.[1] I have accessed this service
+	cq. Name of service:
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____	
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+q. Substance Use and Harm Reduction
+.
+{34} Smoking Cessation Support (e.g. Quit Now)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{35} Residential Drug Treatment Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{36} Counseling for Alcohol Use
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{37} Counseling for Other Substance Use
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{38} Primary Care Provider
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{39} Harm reduction/needle exchange services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{40} Other
+a.[1] I have used this service
+	cq. Name of service:
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	cq. What was the approximate date of the fifth service use?
+	a.y/m/d
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+q. Health Care
+.
+{42} Primary Care Provider (includes Walk-in Clinic)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.____
+	.
+a.[2] I have not accessed this service
+	cq. Did you try to access this service?
+	a.[1] Yes
+		cq. How many times have you tried to access this service in the last 4 weeks?
+		a.__ __
+		.
+		cq. Please indicate the types of barriers that prevented you from accessing
+this service? (If more than one, please list all)
+		a.{1} Service not offered at a convenient time (e.g., during ?business? hours only)
+		a.{2} Service not offered at a convenient location (e.g., across town or out of town)
+		a.{3} Did not have the resources to travel to the service (e.g., no bus or taxi fare)
+		a.{4} Found the other costs to get there too high (e.g. time off work/school)
+		a.{5} Health problems interfered (e.g. physical or mental health problems including substances)
+		a.{6} Family problems interfered (e.g. unstable living situation, intimate partner violence)
+		a.{7} Service not available (e.g., after hours primary healthcare)
+		a.{8} Other 
+			cq. Please specify:
+			a.____
+			.
+		.
+	a.[2] No
+		cq. Please indicate what prevented you from trying to access this service:
+		a.[1] Perceived service as unnecessary (e.g., believed the service was not needed)
+		a.[2] Perceived service as ineffective (e.g., believed the service did not help)
+		a.[3] Perceived service as insensitive (e.g., culturally inappropriate)
+		a.[4] Was ashamed/embarrassed to seek service (e.g., stigma associated with mental health/substances)
+		a.[5] Perceived service as hostile (e.g., might result in child protection/apprehension)
+		a.[6] Used another service altogether (e.g., naturopathy or cultural practices)
+		a.[7] Unaware of what this service is or it's importance
+		a.[8] Other
+			cq. Please specify:
+			a.____
+			.
+		.
+	.
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{43} Emergency Room
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Emergency Room?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the Emergency Room?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.____
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{44} Hospital
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Hospital?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the Hospital?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{45} Public Health and Dental Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{46} Public Health Audiology Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{47} Public Health Speech Pathology Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{48} Public Health Other (Nutrition)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____	
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{49} Physician Specialist ? including Pediatrician 
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{50} First Nations Community Health Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{51} Breastfeeding Clinic/Lactation Consultation
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{52} Early Intervention Therapies
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{53} Nursing Support Services (includes At Home Program)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	{first} first service use?
+	.
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+		cq. How long did accessing this service take (in minutes)?
+		a.Minutes: __ __
+		.
+		cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+		a.Name: ____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+		cq. How long did accessing this service take (in minutes)?
+		a.Minutes: __ __
+		.
+		cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+		a.Name: ____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+		cq. How long did accessing this service take (in minutes)?
+		a.Minutes: __ __
+		.
+		cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+		a.Name: ____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+		cq. How long did accessing this service take (in minutes)?
+		a.Minutes: __ __
+		.
+		cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+		a.Name: ____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{54} STI Clinic
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{55} Youth Clinic (includes Sexual Health Clinic, Options, etc)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{56} Hospital Ambulatory Care Centre
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{57} Other
+a.[1] I have accessed this service
+	cq. Name of service
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	a.[2] I have not accessed this service
+	a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+	.
+.
+q. Children's Services
+.
+{59} Infant's Development Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{60} Aboriginal Infant Development Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{61} Supported Child Development 
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	a.[2] No
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{62} Aboriginal Supported Child Development
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{63} Child Care Resource and Referral
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{64} Other: Please specify:
+a.[1] I have accessed this service
+	cq. Name of service
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+q. Shelter and Housing
+.
+{66} Emergency Shelter
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{67} Women's Transition Housing/Shelter
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{68} Supportive Housing (includes Maternity Home)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{69} Subsidized Housing
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{70} Other: Please specify:
+a.[1] I have accessed this service
+	cq. Name of service
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	a.[2] I have not accessed this service
+	a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+	.
+.
+q. Education and Employment
+.
+{72} Adult Graduation Diploma Program
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.___	
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{73} General Education Development Testing Service
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{74} School District Support Programs
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{75} Job, Career and/or Apprenticeship Programs
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{76} Life Skills
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	a.[1] I have accessed this service
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+q. Other: Please specify:
+.
+q. Other Community Programs and Services
+.
+{79} Charitable Services (food bank, clothing, furniture, toys, etc.)
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{80} Legal Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{81} Immigrant and Refugee Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{82} DNA Paternity Testing
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{83} Probation Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{84} Youth or Adult Custody Services
+a.[1] I have accessed this service
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+{85} Other: Please specify:
+a.[1] I have accessed this service
+	cq. Name of service
+	a.____
+	.
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.__ __
+	.
+	{first} first service use?
+		cq. What was the approximate date of the first service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{second} second service use?
+		cq. What was the approximate date of the second service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{third} third service use?
+		cq. What was the approximate date of the third service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fourth} fourth service use?
+		cq. What was the approximate date of the fourth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+	{fifth} fifth service use?
+		cq. What was the approximate date of the fifth service use?
+		a.y/m/d
+		.
+		cq. In total, what did it cost you to access this service?
+		a.__ __
+		.
+		cq. On this occasion, what were the reasons for this cost?
+		a.____
+		.
+	.
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.

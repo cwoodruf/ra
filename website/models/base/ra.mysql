@@ -1,0 +1,213 @@
+-- MySQL dump 10.13  Distrib 5.5.32, for debian-linux-gnu (i686)
+--
+-- Host: localhost    Database: ra
+-- ------------------------------------------------------
+-- Server version	5.5.32-0ubuntu0.12.04.1-log
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `access`
+--
+
+DROP TABLE IF EXISTS `access`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `access` (
+  `surveyid` int(11) NOT NULL DEFAULT '0',
+  `userid` varchar(64) NOT NULL DEFAULT '',
+  `role` varchar(64) DEFAULT NULL,
+  PRIMARY KEY (`surveyid`,`userid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Temporary table structure for view `mysections`
+--
+
+DROP TABLE IF EXISTS `mysections`;
+/*!50001 DROP VIEW IF EXISTS `mysections`*/;
+SET @saved_cs_client     = @@character_set_client;
+SET character_set_client = utf8;
+/*!50001 CREATE TABLE `mysections` (
+  `sectionid` tinyint NOT NULL,
+  `name` tinyint NOT NULL,
+  `raw` tinyint NOT NULL,
+  `php` tinyint NOT NULL,
+  `json` tinyint NOT NULL,
+  `userid` tinyint NOT NULL,
+  `role` tinyint NOT NULL
+) ENGINE=MyISAM */;
+SET character_set_client = @saved_cs_client;
+
+--
+-- Temporary table structure for view `mysurveys`
+--
+
+DROP TABLE IF EXISTS `mysurveys`;
+/*!50001 DROP VIEW IF EXISTS `mysurveys`*/;
+SET @saved_cs_client     = @@character_set_client;
+SET character_set_client = utf8;
+/*!50001 CREATE TABLE `mysurveys` (
+  `surveyid` tinyint NOT NULL,
+  `title` tinyint NOT NULL,
+  `userid` tinyint NOT NULL,
+  `role` tinyint NOT NULL
+) ENGINE=MyISAM */;
+SET character_set_client = @saved_cs_client;
+
+--
+-- Temporary table structure for view `mysurveysections`
+--
+
+DROP TABLE IF EXISTS `mysurveysections`;
+/*!50001 DROP VIEW IF EXISTS `mysurveysections`*/;
+SET @saved_cs_client     = @@character_set_client;
+SET character_set_client = utf8;
+/*!50001 CREATE TABLE `mysurveysections` (
+  `surveyid` tinyint NOT NULL,
+  `title` tinyint NOT NULL,
+  `sectionid` tinyint NOT NULL,
+  `name` tinyint NOT NULL,
+  `userid` tinyint NOT NULL,
+  `role` tinyint NOT NULL
+) ENGINE=MyISAM */;
+SET character_set_client = @saved_cs_client;
+
+--
+-- Table structure for table `section`
+--
+
+DROP TABLE IF EXISTS `section`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `section` (
+  `sectionid` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) DEFAULT NULL,
+  `raw` longtext,
+  `php` longtext,
+  `json` longtext,
+  PRIMARY KEY (`sectionid`)
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `survey`
+--
+
+DROP TABLE IF EXISTS `survey`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `survey` (
+  `surveyid` int(11) NOT NULL AUTO_INCREMENT,
+  `title` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`surveyid`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `surveysection`
+--
+
+DROP TABLE IF EXISTS `surveysection`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `surveysection` (
+  `surveyid` int(11) NOT NULL DEFAULT '0',
+  `sectionid` int(11) NOT NULL DEFAULT '0',
+  `ord` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`surveyid`,`sectionid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Table structure for table `users`
+--
+
+DROP TABLE IF EXISTS `users`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `users` (
+  `userid` varchar(64) NOT NULL,
+  `email` varchar(128) DEFAULT NULL,
+  `password` varchar(64) DEFAULT NULL,
+  PRIMARY KEY (`userid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Final view structure for view `mysections`
+--
+
+/*!50001 DROP TABLE IF EXISTS `mysections`*/;
+/*!50001 DROP VIEW IF EXISTS `mysections`*/;
+/*!50001 SET @saved_cs_client          = @@character_set_client */;
+/*!50001 SET @saved_cs_results         = @@character_set_results */;
+/*!50001 SET @saved_col_connection     = @@collation_connection */;
+/*!50001 SET character_set_client      = utf8 */;
+/*!50001 SET character_set_results     = utf8 */;
+/*!50001 SET collation_connection      = utf8_general_ci */;
+/*!50001 CREATE ALGORITHM=UNDEFINED */
+/*!50013 DEFINER=`ra`@`localhost` SQL SECURITY DEFINER */
+/*!50001 VIEW `mysections` AS select `section`.`sectionid` AS `sectionid`,`section`.`name` AS `name`,`section`.`raw` AS `raw`,`section`.`php` AS `php`,`section`.`json` AS `json`,`access`.`userid` AS `userid`,`access`.`role` AS `role` from (((`survey` join `surveysection` on((`surveysection`.`surveyid` = `survey`.`surveyid`))) join `section` on((`section`.`sectionid` = `surveysection`.`sectionid`))) join `access` on((`access`.`surveyid` = `survey`.`surveyid`))) */;
+/*!50001 SET character_set_client      = @saved_cs_client */;
+/*!50001 SET character_set_results     = @saved_cs_results */;
+/*!50001 SET collation_connection      = @saved_col_connection */;
+
+--
+-- Final view structure for view `mysurveys`
+--
+
+/*!50001 DROP TABLE IF EXISTS `mysurveys`*/;
+/*!50001 DROP VIEW IF EXISTS `mysurveys`*/;
+/*!50001 SET @saved_cs_client          = @@character_set_client */;
+/*!50001 SET @saved_cs_results         = @@character_set_results */;
+/*!50001 SET @saved_col_connection     = @@collation_connection */;
+/*!50001 SET character_set_client      = utf8 */;
+/*!50001 SET character_set_results     = utf8 */;
+/*!50001 SET collation_connection      = utf8_general_ci */;
+/*!50001 CREATE ALGORITHM=UNDEFINED */
+/*!50013 DEFINER=`ra`@`localhost` SQL SECURITY DEFINER */
+/*!50001 VIEW `mysurveys` AS select `survey`.`surveyid` AS `surveyid`,`survey`.`title` AS `title`,`access`.`userid` AS `userid`,`access`.`role` AS `role` from (`survey` join `access` on((`access`.`surveyid` = `survey`.`surveyid`))) */;
+/*!50001 SET character_set_client      = @saved_cs_client */;
+/*!50001 SET character_set_results     = @saved_cs_results */;
+/*!50001 SET collation_connection      = @saved_col_connection */;
+
+--
+-- Final view structure for view `mysurveysections`
+--
+
+/*!50001 DROP TABLE IF EXISTS `mysurveysections`*/;
+/*!50001 DROP VIEW IF EXISTS `mysurveysections`*/;
+/*!50001 SET @saved_cs_client          = @@character_set_client */;
+/*!50001 SET @saved_cs_results         = @@character_set_results */;
+/*!50001 SET @saved_col_connection     = @@collation_connection */;
+/*!50001 SET character_set_client      = utf8 */;
+/*!50001 SET character_set_results     = utf8 */;
+/*!50001 SET collation_connection      = utf8_general_ci */;
+/*!50001 CREATE ALGORITHM=UNDEFINED */
+/*!50013 DEFINER=`ra`@`localhost` SQL SECURITY DEFINER */
+/*!50001 VIEW `mysurveysections` AS select `survey`.`surveyid` AS `surveyid`,`survey`.`title` AS `title`,`section`.`sectionid` AS `sectionid`,`section`.`name` AS `name`,`access`.`userid` AS `userid`,`access`.`role` AS `role` from (((`survey` join `surveysection` on((`surveysection`.`surveyid` = `survey`.`surveyid`))) join `section` on((`section`.`sectionid` = `surveysection`.`sectionid`))) join `access` on((`access`.`surveyid` = `survey`.`surveyid`))) */;
+/*!50001 SET character_set_client      = @saved_cs_client */;
+/*!50001 SET character_set_results     = @saved_cs_results */;
+/*!50001 SET collation_connection      = @saved_col_connection */;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2013-09-21 13:07:50

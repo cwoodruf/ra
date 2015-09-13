@@ -1,0 +1,55 @@
+#question {
+	font-family: helvetica, arial, sans-serif;
+	font-size: large;
+}
+.question .question {
+	/* display: none; */
+	display: block;
+}
+a.unset {
+	text-decoration: none;
+	color: #969;
+}
+
+.expandall, .hideall, 
+.section a.expand, .section a.hide,
+.question a.expand, .question a.hide {
+	margin-left: 2px;
+	text-decoration: none;
+	color: #AAA;
+	font-variant: italic;
+}
+.answers .answers, .answers .question, .questioncontext, .answercontext {
+	display: none; 
+}
+.questioncontext {
+	margin-left: 14px;
+	display: none;
+}
+div.questioncontext,
+div.question {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+div.qunder {
+	height: 10px;
+}
+div.expander {
+    font-size: 18px;
+    width: 40px;
+    height: 35px;
+	padding-left: 15px;
+	float: right;
+}
+div.unsetlink {
+	margin-left: -8px;
+	padding: 0;
+}
+div.answers {
+}
+div {
+}
+.invisible, .question span.invisible, .question a.invisible {
+	visibility: hidden;
+}

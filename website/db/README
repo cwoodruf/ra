@@ -1,0 +1,63 @@
+
+dbabstracter4php 
+
+---------------------------------------------------------------
+Author Cal Woodruff cwoodruf@gmail.com
+Licensed under the Perl Artistic License version 2.0
+http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt
+---------------------------------------------------------------
+
+Object oriented wrapper for database operations.
+
+It is intended to be easy to port and extend.
+
+Usage:
+	[in the frame directory]
+	db/buildmodels.php mydb 
+
+	[will build class *-base.php files for tables in mydb in models/base]
+	
+	vim models/mydb/MydbDB.php 
+	[add login details]
+
+	[make your own extensions of the *-base.php classes to change them]
+
+You can also rebuild individual tables:
+
+	db/buildmodels.php mydb mytable
+
+You can also change the output directory:
+
+	db/buildmodels.php mydb mytable othermodels/base
+
+for all tables:
+
+	db/buildmodels.php mydb "" othermodels/base
+
+Each class file contains schema information in a public $schema variable
+that can be used as an aid for automatically making forms etc based on 
+the table information. 
+
+Each class inherits methods from either the Entity or Relation base class
+defined in abstract-common.php. An Entity is a stand alone table that has
+only a single field as a key (if any). A Relation has a multi field key.
+
+If you make fields with the pattern {tablename}_id and use them consistently
+the code generator will add the table information to the $primarykey.
+
+Currently only mysql is supported. However, it should be relatively easy to port to
+another rdbms. 
+
+This will define the Entity and Relation classes that you can then map to tables.
+For this to work you need to create two php arrays $tables with schema information
+and a $db array with login information for the database. An example is included in
+the svn tree.
+
+Relation differs from Entity in that a relation has a multiple field key.
+
+The operations: ins, upd, del, getone, getall are currently defined.
+
+Feel free to run your own queries with the "run" method. This method works similar
+to sprintf in that you have a query string and then a variable length list of fields
+that can be inserted into the query string using standard printf syntax.
+

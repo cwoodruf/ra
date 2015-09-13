@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <!--  <item android:id="@+id/start_survey" android:title="@string/start_survey"></item> -->
+    <item android:id="@+id/contact_info" android:title="@string/contact_info"></item><item android:id="@+id/email_part" android:title="@string/email_part"></item><item android:id="@+id/phone_part" android:title="@string/phone_part"></item><item android:id="@+id/edit_part" android:title="@string/edit_part"></item>
+    <item android:id="@+id/del_part" android:title="@string/del_part"></item>
+    
+    
+    
+    
+
+</menu>

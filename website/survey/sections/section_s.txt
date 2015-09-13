@@ -1,0 +1,650 @@
+s.S Prenatal Service Use
+
+q. Please tell me about the public services you've used in the past 4 weeks. I
+have a list of services that I'll go through to help jog your memory.
+Please let me know if you have accessed the service, or are waiting to
+access the service.
+.
+q. Financial Assistance
+	a.{#}Income Assistance (includes Disability, Hardship)
+	accessedthis
+
+	a.{#}Employment Insurance and Maternity Benefits
+	accessedthis
+
+	a.{#}Special refundable tax rebates (GST/HST rebates)
+	accessedthis
+
+	a.{#}Medical Services Premium Assistance
+	accessedthis
+
+	a.{#}Rental Assistance
+	accessedthis
+
+	a.{#}Adult Basic Education (ABE) Student Assistance Program
+	accessedthis
+
+	a.{#}At Home Respite Benefits
+	accessedthis
+
+	a.{#}Non-Insured Health Benefits Program
+	accessedthis
+
+	a.{#}Other financial benefits
+	accessedother
+.
+q. Pregnancy Related Programs
+	a.{#}Pregnancy Outreach Program (Includes CPNP, POPs, Healthiest Babies Possible)
+	accessedwithbarriers
+
+	a.{#}Prenatal Education (Prenatal classes for childbirth, breastfeeding, infant care, etc.)
+	accessedwithbarriers
+
+	a.{#}Family Resource Program
+	accessedthis
+
+	a.{#}Prenatal/parenting program for youth (includes school based programming)
+	accessedthis
+
+	a.{#}Adoption Services
+	accessedthis
+
+	a.{#}First Nations and Aboriginal Support Services
+	accessedthis
+
+	a.{#}Multicultural Support Services
+	accessedthis
+
+	a.{#}Other pregnancy related support programs
+	accessedother
+.
+q. Mental Health/Crisis Intervention
+	a.{#}Adult Outpatient Mental Health Clinic (Community Mental Health Team)
+	accessedthis
+
+	a.{#}Reproductive Mental Health Services (includes professionally led groups, psychiatry, etc.)
+	accessedthis
+
+	a.{#}Child and Youth Mental Health Services
+	accessedthis
+
+	a.{#}Youth Forensic Psychiatric Services
+	accessedthis
+
+	a.{#}Community Counseling Services (e.g. Adult or Family Services)
+	accessedthis
+
+	a.{#}Crisis Intervention Services (includes Intimate Partner Violence Services)
+	accessedthis
+
+	a.{#}Primary Care Provider
+	accessedthis
+
+	a.{#}Peer Support (e.g. Pacific Postpartum Support Society)
+	accessedthis
+
+	a.{#}Victim Services
+	accessedthis
+
+	a.{#}Family Support Services
+	accessedthis
+
+	a.{#}Other mental health (other than substance use programs)
+	accessedother
+.
+q. Substance Use and Harm Reduction
+	a.{#}Smoking Cessation Support (e.g. Quit Now)
+	accessedthis
+
+	a.{#}Residential Drug Treatment Program
+	accessedthis
+
+	a.{#}Counseling for Alcohol Use
+	accessedthis
+
+	a.{#}Counseling for Other Substance Use
+	accessedthis
+
+	a.{#}Primary Care Provider
+	accessedthis
+
+	a.{#}Harm reduction/needle exchange services
+	accessedthis
+
+	a.{#}Other substance use or harm reduction program
+	accessedother
+.
+q. Health Care
+	a.{#}Primary Care Provider (includes Walk-in Clinic)
+	accessed_health_with_barriers
+
+	a.{#}Emergency Room
+	accessedemergency
+
+	a.{#}Hospital
+	accessed_health
+
+	a.{#}Public Health and Dental Services
+	accessedthis
+
+	a.{#}Public Health Audiology Services
+	accessedthis
+
+	a.{#}Public Health Speech Pathology Services
+	accessedthis
+
+	a.{#}Public Health Other (Nutrition)
+	accessedthis
+
+	a.{#}Physician Specialist ? including Pediatrician 
+	accessedthis
+
+	a.{#}First Nations Community Health Services
+	accessedthis
+
+	a.{#}Breastfeeding Clinic/Lactation Consultation
+	accessedthis
+
+	a.{#}Early Intervention Therapies
+	accessedthis
+
+	a.{#}Nursing Support Services (includes At Home Program)
+	accessed_nursing
+
+	a.{#}STI Clinic
+	accessedthis
+
+	a.{#}Youth Clinic (includes Sexual Health Clinic, Options, etc)
+	accessedthis
+
+	a.{#}Hospital Ambulatory Care Centre
+	accessedthis
+
+	a.{#}Other health care
+	accessedother
+.
+q. Children's Services
+	a.{#}Infant's Development Program
+	accessedthis
+
+	a.{#}Aboriginal Infant Development Program
+	accessedthis
+
+	a.{#}Supported Child Development 
+	accessedthis
+
+	a.{#}Aboriginal Supported Child Development
+	accessedthis
+
+	a.{#}Child Care Resource and Referral
+	accessedthis
+
+	a.{#}Other: Please specify:
+	accessedother
+.
+q. Shelter and Housing
+	a.{#}Emergency Shelter
+	accessedthis
+
+	a.{#}Women's Transition Housing/Shelter
+	accessedthis
+
+	a.{#}Supportive Housing (includes Maternity Home)
+	accessedthis
+
+	a.{#}Subsidized Housing
+	accessedthis
+
+	a.{#}Other: Please specify:
+	accessedother
+.
+q. Education and Employment
+	a.{#}Adult Graduation Diploma Program
+	accessedthis
+
+	a.{#}General Education Development Testing Service
+	accessedthis
+
+	a.{#}School District Support Programs
+	accessedthis
+
+	a.{#}Job, Career and/or Apprenticeship Programs
+	accessedthis
+
+	a.{#}Life Skills
+	accessedthis
+.
+q. Other Community Programs and Services
+	a.{#}Charitable Services (food bank, clothing, furniture, toys, etc.)
+	accessedthis
+
+	a.{#}Legal Services
+	accessedthis
+
+	a.{#}Immigrant and Refugee Services
+	accessedthis
+
+	a.{#}DNA Paternity Testing
+	accessedthis
+
+	a.{#}Probation Services
+	accessedthis
+
+	a.{#}Youth or Adult Custody Services
+	accessedthis
+
+	a.{#}Other: Please specify:
+	accessedother
+.
+
+// blocks
+
+=accessedthis
+// cq. Have you accessed this service in the last 4 weeks?
+// a.[1] I have accessed this service
+	howmanytimes
+
+	cq. Describe the last few times you used this service
+	generalserviceuse
+	.
+// a.[2] I have not accessed this service
+// a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+// .
+=
+
+=accessedwithbarriers
+cq. Have you accessed or tried to access this service in the last 4 weeks?
+a.[1] I have accessed this service
+	howmanytimes
+
+	cq. Describe the last few times you used this service
+	generalserviceuse
+	.
+a.[2] I have not accessed this service
+	barriers
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+=
+
+=accessedother
+// cq. Have you accessed this service in the last 4 weeks?
+// a.[1] I have accessed this service
+	cq. Name of service:
+	a.____
+	.
+	howmanytimes
+
+	cq. Describe the last few times you used this service
+	generalserviceuse
+	.
+// a.[2] I have not accessed this service
+// a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+// .
+=
+
+=accessed_health
+// cq. Have you accessed this service in the last 4 weeks?
+// a.[1] I have accessed this service
+	howmanytimes
+
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. Describe the last few times you used this service
+	healthcareuse
+	.
+/*
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+*/
+=
+
+=accessed_nursing
+/*
+cq. Have you accessed this service in the last 4 weeks?
+a.[1] I have accessed this service
+*/
+	howmanytimes
+
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. Describe the last few times you used this service
+	nursingserviceuse
+	.
+/*
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+*/
+=
+
+=accessed_health_with_barriers
+cq. Have you accessed this service in the last 4 weeks?
+a.[1] I have accessed this service
+	howmanytimes
+
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. Describe the last few times you used this service
+	healthcareuse
+	.
+a.[2] I have not accessed this service
+	barriers
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+=
+
+=accessedemergency
+/*
+cq. Have you accessed this service in the last 4 weeks?
+a.[1] I have accessed this service
+*/
+	howmanytimes
+
+	cq. Do you know about the 24-hour tele-nursing service (dial 8-1-1) in BC?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. Describe the last few times you used this service
+	emergencyuse
+	.
+/*
+a.[2] I have not accessed this service
+a.[3] I am waiting to access this service (a referral is in process/I am on a waiting list)
+.
+*/
+=
+
+// variables used by blocks
+=howmanytimes
+	cq. How many times have you accessed this service in the last 4 weeks?
+	a.1~28
+	.
+=
+
+=barriers
+cq. Did you try to access this service?
+a.[1] Yes
+	cq. How many times have you tried to access this service in the last 4 weeks?
+	a.1~28
+	.
+	cq. Please indicate the types of barriers that prevented you from accessing
+this service? (If more than one, please list all)
+	a.{1} Service not offered at a convenient time (e.g., during ?business? hours only)
+	a.{2} Service not offered at a convenient location (e.g., across town or out of town)
+	a.{3} Did not have the resources to travel to the service (e.g., no bus or taxi fare)
+	a.{4} Found the other costs to get there too high (e.g. time off work/school)
+	a.{5} Health problems interfered (e.g. physical or mental health problems including substances)
+	a.{6} Family problems interfered (e.g. unstable living situation, intimate partner violence)
+	a.{7} Service not available (e.g., after hours primary healthcare)
+	a.{8} Other ____
+	.
+a.[2] No
+	cq. Please indicate what prevented you from trying to access this service:
+	a.[1] Perceived service as unnecessary (e.g., believed the service was not needed)
+	a.[2] Perceived service as ineffective (e.g., believed the service did not help)
+	a.[3] Perceived service as insensitive (e.g., culturally inappropriate)
+	a.[4] Was ashamed/embarrassed to seek service (e.g., stigma associated with mental health/substances)
+	a.[5] Perceived service as hostile (e.g., might result in child protection/apprehension)
+	a.[6] Used another service altogether (e.g., naturopathy or cultural practices)
+	a.[7] Unaware of what this service is or it's importance
+	a.[8] Other ____
+	.
+.
+=
+
+// service usage
+=generalserviceuse
+a.{first} first service use?
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+a.{second} second service use?
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+a.{third} third service use?
+	cq. What was the approximate date of the third service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+a.{fourth} fourth service use?
+	cq. What was the approximate date of the fourth service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+a.{fifth} fifth service use?
+	cq. What was the approximate date of the fifth service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____	
+	.
+=
+
+=healthcareuse
+a.{first} first service use?
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+a.{second} second service use?
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.____
+	.
+
+=
+
+=nursingserviceuse
+a.{first} first service use?
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+a.{second} second service use?
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+a.{third} third service use?
+	cq. What was the approximate date of the third service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+a.{fourth} fourth service use?
+	cq. What was the approximate date of the fourth service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+a.{fifth} fifth service use?
+	cq. What was the approximate date of the fifth service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.Minutes: __ __
+	.
+	cq. Please specify the name of the Nursing Support Service you accessed on this
+occasion (excluding the Nurse-Family Partnership):
+	a.Name: ____
+	.
+=
+
+=emergencyuse
+a.{first} first service use?
+	cq. What was the approximate date of the first service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Emergency Room?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the Emergency Room?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.__ __
+	.
+a.{second} second service use?
+	cq. What was the approximate date of the second service use?
+	a.y/m/d
+	.
+	cq. In total, what did it cost you to access this service?
+	a.__ __
+	.
+	cq. On this occasion, what were the reasons for this cost?
+	a.____
+	.
+	cq. On this occasion, did you access the 24-hour tele-nursing service (8-1-1)
+prior to visiting the Primary Care Provider or clinic?
+	a.[1] Yes
+	a.[2] No
+	.
+	cq. On this occasion, who did you see at the service?
+	a.[1] A doctor
+	a.[2] A nurse
+	a.[3] A nurse-practitioner
+	a.[4] An intern/student
+	a.[5] I don't know
+	.
+	cq. How long did accessing this service take (in minutes)?
+	a.____
+	.
+=
+

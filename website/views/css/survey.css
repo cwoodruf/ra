@@ -1,0 +1,145 @@
+* {
+	font-family: helvetica, arial, verdana, sans-serif;
+}
+#header {
+	padding: 12px;
+	width: 100%;
+}
+div#questions {
+	width: 1300px;
+}
+span.question {
+	padding: 12px;
+}
+.popup {
+	font-size: 14px;
+	padding-left: 100px;
+}
+.start {
+	font-size: 15px;
+	padding-bottom: 12px;
+}
+#start, #end, #questions {
+	margin-left: 100px;
+	font-size: 15px;
+	padding: 12px;
+	height: 500px;
+}
+.popup, .hide, #end, #questions, #localsave, #upload {
+	display: none;
+}
+#footer {
+	padding: 12px;
+	width: 100%;
+}
+div.nav {
+	font-size: 18px;
+	padding-bottom: 10px;
+	width: 700px;
+	height: 50px;
+}
+div.navprev {
+	width: 350px;
+	float: left;
+}
+div.navnext {
+	width: 350px;
+	text-align: right;
+	float: right;
+}
+.partlink, #refresh_data, #save_data {
+	font-size: 14px;
+}
+.info {
+	font-style: italic;
+	font-size: 14px;
+}
+div.info {
+	padding-bottom: 5px;
+}
+#partinfo, #partinfo table {
+	font-size: 12px;
+}
+div#partinfo {
+	margin-top: 12px;
+}
+tr.partcontact {
+	background-color: lightgray; 
+}
+tr.partcontacteven {
+	background-color: white;
+}
+td.partcontactname {
+	font-weight: bold;
+}
+td.partcontactval {
+	border-left: 2px white solid;
+}
+div#upload {
+	padding: 5px;
+}
+form.uploadtop {
+	width: 700px;
+}
+form.uploadtop select {
+	width: 400px;
+}
+div.uploadtop {
+	float: left;
+	width: 130px;
+}
+div.floatright > div {
+	font-size: 12px;
+	margin-left: 20px;
+	padding-left: 0;
+}
+div.floatright {
+	float: right; 
+	padding: 2px;
+        width: 400px;
+	height: 300px;
+	font-size: 12px;
+	border: 1px green dashed;
+}
+div.floatleft {
+	float: left;
+	padding: 2px;
+        width: 400px;
+	height: 500px;
+	font-size: 12px;
+}
+div.floatleft > div {
+	padding-left: 20px;
+	font-size: 12px;
+}
+	
+div#qnav, div#qhtml {
+	clear: both;
+}
+div.unsetlink {
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 5px;
+}
+.unsetlink, .unsetlink > a {
+	font-size: 12px;
+	font-style: italic;
+}
+div.list.questions.answers {
+	margin-left: 50px;
+}
+div.list.questions.answers > table {
+	width: 100%;
+}
+textarea.qedit {
+}
+.hidden {
+	display: none;
+}
+div.questions {
+	padding-bottom: 12px;
+}
+div.editsectionlinks {
+	padding-bottom: 12px;
+}
+

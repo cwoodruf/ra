@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Research Assistant</title>
+
+<script type="text/javascript" src="jquery.js" ></script>
+
+<!-- from jquery ui index.html -->
+<link href="css/smoothness/jquery-ui.css" rel="stylesheet">
+<link href="css/smoothness/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+<!-- script src="js/jquery-1.9.1.js"></script -->
+<script src="js/jquery-ui.js"></script>
+
+<script type="text/javascript" src="mobile_ready.js" ></script>
+<script type="text/javascript" src="jquery.json-2.4.min.js" ></script>
+<script type="text/javascript" src="data.js" ></script>
+<script type="text/javascript" src="show.js" ></script>
+<script type="text/javascript" src="answerparser.js" ></script>
+<script type="text/javascript" src="showquestion.js" ></script>
+<!-- script type="text/javascript" src="section1.js" ></script -->
+<link rel="stylesheet" type="text/css" href="main.css" />
+<link rel="stylesheet" type="text/css" href="showjs.css" />
+</head>
+<body>
+<div id="question">
+</div>
+</body>
+</html>
+
+

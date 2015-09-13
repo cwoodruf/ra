@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "hash": "37951b4ce25f01c934aaeb842f0c7615",
+    "packages": [
+        {
+            "name": "base-reality/php-to-javascript",
+            "version": "0.1.17",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Danack/PHP-to-Javascript.git",
+                "reference": "79b0d4fdb837cd0b5f1acefa6256e8b2980af86e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Danack/PHP-to-Javascript/zipball/79b0d4fdb837cd0b5f1acefa6256e8b2980af86e",
+                "reference": "79b0d4fdb837cd0b5f1acefa6256e8b2980af86e",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "PHPToJavascript": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "CC-BY-NC-SA-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Dan Ackroyd",
+                    "email": "Danack@basereality.com",
+                    "homepage": "http://www.basereality.com"
+                }
+            ],
+            "description": "A PHP to Javascript converter for automatically converting PHP source code (including Classes) into Javascript.",
+            "time": "2013-06-06 11:19:33"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}

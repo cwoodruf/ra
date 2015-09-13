@@ -1,0 +1,30 @@
+.question .question {
+	/* display: none; */
+	display: block;
+}
+a.unset {
+	text-decoration: none;
+	color: #969;
+}
+
+.expandall, .hideall, 
+.section a.expand, .section a.hide,
+.question a.expand, .question a.hide {
+	margin-left: 20px;
+	text-decoration: none;
+	color: #AAA;
+	font-variant: italic;
+}
+.answers, .questioncontext, .answercontext {
+	display: none;
+}
+div.questioncontext,
+div.question {
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+}
+div.answers {
+}
+div {
+}

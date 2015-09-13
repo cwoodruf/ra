@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SPSS Howto</title>
+<link rel="stylesheet" type="text/css" href="/ra/views/css/main.css" />
+</head>
+<body>
+<div style="width: 600px; margin-left: 100px; margin-bottom: 100px;">
+<h3>SPSS Howto</h3>
+<p>
+SPSS is a statistics software package used in social research. Use SPSS
+to summarize interview data, test hypotheses and check data quality.
+<p>
+<h4>Save data to a file</h4>
+<p>
+Use the CSV or TAB links in Research Assistant to save section interview data in an
+SPSS readable format. 
+<p>
+<h4>Import data into SPSS</h4>
+<p>
+These instructions have been tested with SPSS version 22.
+<p>
+For CSV data use the "File &gt; Read Text Data..." dialog to import text data.
+This can also be used for TAB data.
+<p>
+Alternatively, for TAB files, click on the "VARIABLE LABELS for TAB data" 
+link to generate a script to automatically import the TAB file and create 
+descriptive variable labels. Open a new SPSS sytax window with the 
+"File &gt; New &gt; Syntax" menu option. 
+Paste the VARIABLE LABELS output into the sytax window. 
+<p>
+Edit the SPSS GET command to point to the TAB data file saved earlier. 
+Use the "Run &gt; All" menu option in the syntax window to run all commands.
+To run a single command click on the command and either click the green arrow
+in the toolbar or use the "Run &gt; Selection" to run each command in turn.
+<p>
+To set variable labels for CSV files copy the VARIABLE LABELS output into a new
+sytax window, click on the VARIABLE LABELS command and click on the green arrow
+or "Run &gt; Selection" to create labels for each variable.
+<p>
+At this point all the section data for that survey section should be successfully
+imported into a data window in SPSS. Hovering over a variable name should cause 
+the label for that variable to appear.
+<p>
+<h4>Variable naming conventions</h4>
+<p>
+For questions which use checkboxes or radio buttons a variable is made for each
+option. The variable name is the question id followed by "__" followed by the
+value for that specific selection. If that variable was selected then the value
+for the field is "1". If the option wasn't selected the value is "0". 
+<p>
+For any other type of input the variable name is the question id. 
+<p>
+<h4>Variable values</h4>
+<p>
+See <a href="/ra/survey/surveylanguage.txt">survey language syntax</a> for more
+on the different answer types.
+<p>
+The value of a variable is either numeric or text depending on the widget type used 
+for the answer:
+<table cellpadding="3" cellspacing="0" border="1">
+<tr><th>widget</th><th>variable type</th></tr>
+<tr><td>checkbox</td><td>numeric</td></tr>
+<tr><td>radio</td><td>numeric</td></tr>
+<tr><td>numselect</td><td>numeric</td></tr>
+<tr><td>numeric</td><td>numeric</td></tr>
+<tr><td colspan="2">&nbsp;</td></tr>
+<tr><td>textbox</td><td>text</td></tr>
+<tr><td>text</td><td>text</td></tr>
+<tr><td>timestamp</td><td>text</td></tr>
+<tr><td>datepicker</td><td>text</td></tr>
+<tr><td>date</td><td>text</td></tr>
+<tr><td>select</td><td>text</td></tr>
+</table>
+<p>
+Values for text boxes which may span more than one line are converted to 
+fit on a single line. Line ending characters are converted to "\n".
+<p>
+<h4>References</h4>
+<a href="http://www.ats.ucla.edu/stat/spss/modules/input.htm">Reference on SPSS data import</a>
+<br>
+<a href="http://en.wikipedia.org/wiki/SPSS">Wikipedia article on SPSS</a>
+<p>
+</div>
+
+</body>
+</html>

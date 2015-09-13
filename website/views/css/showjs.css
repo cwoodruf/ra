@@ -1,0 +1,67 @@
+#question {
+	font-family: helvetica, arial, sans-serif;
+	font-size: large;
+	padding-top: 22px;
+	padding-bottom: 22px;
+}
+.portrait7 {
+	width: 600px;
+	height: 705px;
+	overflow: visible;
+	border: 1px blue solid;
+}
+.landscape7 {
+	width: 1000px;
+	height: 420px;
+	overflow: visible;
+	border: 1px blue solid;
+}
+.question .question {
+	/* display: none; */
+	display: block;
+}
+a.unset {
+	text-decoration: none;
+	color: #969;
+}
+
+.expandall, .hideall, 
+.section a.expand, .section a.hide,
+.question a.expand, .question a.hide {
+	margin-left: 20px;
+	text-decoration: none;
+	color: #AAA;
+	font-variant: italic;
+}
+.answers .answers, .answers .question, .questioncontext, .answercontext {
+	display: none; 
+}
+.questioncontext {
+	margin-left: 24px;
+	display: none;
+}
+div.questioncontext,
+div.question {
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-bottom: 10px;
+	/* width: 500px; */
+}
+div.qunder {
+	height: 10px;
+}
+div.expander {
+	/* padding: 10px; */
+	/* float: right; */
+}
+div.unsetlink {
+	margin-left: -8px;
+	padding: 0;
+}
+div.answers {
+}
+div {
+}
+.invisible, .question span.invisible, .question a.invisible {
+	visibility: hidden;
+}

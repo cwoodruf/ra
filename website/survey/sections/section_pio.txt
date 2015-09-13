@@ -1,0 +1,152 @@
+s.PIO Post Interview Observations
+q.PIO1 /* Before we finish our interview, may I just ask, */ are you currently
+participating in a research study other than the BC Healthy Connections
+Project?
+a.[1] Yes
+	cq.PIO1_4 Could you provide the study team's contact information?
+	a.[1] Yes
+		cq.PIO1_5 Name:
+		a.____
+		.PIO1_5
+
+
+		cq.PIO1_6 Phone Number:
+		a.____
+		.PIO1_6
+
+
+		cq.PIO1_7 Email Address:
+		a.____
+		.PIO1_7
+
+
+	a.[2] No
+	.PIO1_4
+
+
+a.[2] No
+.PIO1
+
+
+q.PIO2a Now I'd like you to tell me about an aspect of parenting that you are
+looking forward to?
+textbox
+.PIO2a
+
+
+q.PIO3 These are all the questions I have for you today. Is there anything else
+you think we should know about your pregnancy?
+a.[1] Yes
+	cq.PIO3_1 What would you like to tell us?
+	textbox
+	.PIO3_1
+
+
+a.[2] No
+.PIO3
+
+
+q.PIO4 Date and time interview ended:
+a.timestamp
+.PIO4
+
+
+q.PIO Next are Post-Interview Observations to be answered confidentially by the
+Scientific Field Interviewer immediately upon following the interview.
+.PIO
+
+
+q.PIO5 Did the participant inform you of their group assignment?
+yesno
+.PIO5
+
+
+q.PIO6 Was the respondent cooperative?
+yesno
+.PIO6
+
+
+q.PIO7 Did the respondent seem to have difficulty understanding the interview?
+a.[1] Yes
+	cq.PIO7_1 If yes, explain (e.g. English as a second language, cognitive ability,
+etc.) and INFORM THE SCIENTIFIC DIRECTOR:
+	textbox
+	.PIO7_1
+
+
+a.[2] No
+.PIO7
+
+
+q.PIO8 Did you have to reword any items for better understanding by the
+respondent?
+a.[1] Yes
+	cq.PIO8_1 If yes, identify items:
+	textbox
+	.PIO8_1
+
+
+a.[2] No
+.PIO8
+
+
+q.PIO9 Did the respondent become impatient or emotional in response to any items
+in the interview?
+a.[1] Yes
+	cq.PIO9_1 If yes, identify items:
+	textbox
+	.PIO9_1
+
+
+a.[2] No
+.PIO9
+
+
+q.PIO10a Did the respondent have difficulty concentrating?
+yesno
+.PIO10a
+
+
+q.PIO10 In general, was the respondent unsure of answers?
+yesno
+.PIO10
+
+
+q.PIO11 Were there many interruptions? 
+yesno
+.PIO11
+
+
+q.PIO12 Was privacy maintained throughout the interview?
+yesno
+	cq.PIO12_1 Explain:
+	textbox
+	.PIO12_1
+
+
+.PIO12
+
+
+q.PIO13 Did you alter the interview procedures in any way?
+a.[1] Yes
+	cq.PIO13_1 Explain:
+	textbox
+	.PIO13_1
+
+
+a.[2] No
+.PIO13
+
+
+q.PIO14 Any other comments you have on the interview?
+textbox
+.PIO14
+
+=yesno
+a.
+[1] Yes
+[2] No
+=textbox
+a.
+[____]
+=

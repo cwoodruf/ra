@@ -1,0 +1,441 @@
+/* this css file is added by default */
+body, table {
+	background: white;
+	font-family: arial, verdana, sans-serif;
+	font-size: 11pt;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+div#maindiv {
+	margin-left: 50px;
+}
+.bold {
+	font-weight: bold;
+}
+.bordered {
+	border: 1px black solid;
+}
+.white {
+	background: white;
+	color: black;
+}
+
+.toplevel {
+	border: 1px black solid;
+	margin: 10px;
+	padding: 10px;
+	background: #F8F8F8;
+	width: 1000px;
+}
+
+.byline {
+	text-align: right;
+	margin-right: 35px;
+}
+
+div.notenav {
+	height: 15px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+li {
+	padding-bottom: 5px;
+}
+
+table.partnotes {
+	background: red;
+}
+
+.partdetails h4 {
+	padding: 0;
+	margin-top: 6px;
+	margin-bottom: 4px;
+	font-size: 11pt;
+}
+div.partdetails {
+	padding: 3px;
+	margin-bottom: 3px;
+}
+.partdetails td {
+	padding-left: 0;
+}
+.partdetails .bold {
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 14pt;
+}
+
+h2 {
+	font-size: 16pt;
+}
+
+h1 {
+	font-size: 20pt;
+}
+
+.menu {
+	font-family: arial, sans-serif;
+	margin-bottom: 10px;
+	width: 1000px;
+}
+div.menuitem:hover {
+	background: #EEE;
+}
+div.nohilite:hover {
+	background: #FFF;
+}
+div.menuitem a:hover {
+	text-decoration: none;
+}
+
+.menuitem {
+	padding: 5px;
+	float: left;
+}
+.menubold {
+	font-weight: bold;
+}
+div.menuend {
+	clear: both;
+	margin-bottom: 20px;
+}
+
+
+/* for calendars */
+.calendar-title,.calendar-form {
+	font-family: helvetica,arial,sans-serif;
+}
+div.calendar-form {
+	margin-left: 200px;
+}
+.calendar-title {
+	text-align: center;
+}
+
+.calendar-form a {
+	color: black;
+	text-decoration: none;
+}
+.calendar-form a:hover {
+	text-decoration: underline;
+}
+.calendar-hilite {
+	background: lightblue;
+}
+.calendar-hilite.NFP {
+	background: pink;
+}
+.calendar-hilite.SFI {
+	background: yellow;
+}
+.calendar-title {
+	font-size: large;
+	margin-bottom: 10px;
+	width: 1014px;
+}
+.calendar {
+	font-size: small;
+	height: 634px;
+	width: 1014px;
+}
+.calendar.month {
+	background: #F8F8F8;
+	height: 100px;
+	width: 142px;
+	float: left;
+	border-top: 1px black solid;
+	border-left: 1px black solid;
+	margin: 0;
+	overflow: hidden;
+}
+.calendar.month.dom {
+	background: white;
+}
+.calendar.month.weekend.dom {
+	background: #eee;
+}
+.calendar.month.selected.dom {
+	background: lightyellow;
+}
+.calendar.month.eow {
+	width: 0;
+	border: 0;
+	clear: both;
+}
+/* end calendar stuff */
+div.partsurveys {
+	margin-top: -5px;
+	margin-bottom: 10px;
+}
+div.partsurveys > table {
+	font-size: 11pt;
+}
+div.partsurveys > table td {
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-right: 10px;
+}
+.addtop {
+	margin-bottom: 10px;
+}
+.partrow {
+	padding: 10px;
+}
+.participant {
+	padding-bottom: 3px;
+}
+.visit {
+	padding-left: 20px;
+}
+.visit, .surveylink, table > .surveylink {
+	font-size: 10pt;
+}
+form.visitform {
+	display: inline;
+}
+div.surveytitle {
+	display: inline;
+	width: 250px;
+	overflow: hidden;
+}
+div#topmsg {
+	margin-left: 5px;
+	margin-bottom: 15px;
+}
+.error, div#errormsg {
+	color: red;
+}
+table.users {
+	font-size: 10pt;
+}
+table.partsummary td {
+	padding-left: 10px;
+	overflow: hidden;
+}
+table.partsummary {
+	height: 36px;
+}
+table#partbodytable {
+	font-size: 11pt;
+	width: 1000px;
+}
+div.users {
+	width: 180px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+tr.partbodyfirstrow td {
+	padding: 10px;
+	padding-top: 5px;
+}
+tr.partlha td {
+	padding-top: 12px;
+	padding-bottom: 3px;
+}
+tr.partbodyfirstrow, tr.userseven {
+	background: #eee;
+}
+tr.usersodd {
+	background: white;
+}
+.partsearchinfo {
+	font-style: italic;
+	font-size: 10pt;
+}
+div.partsearchinfo {
+	margin-top: -15px;
+	margin-bottom: 15px;
+}
+table#parttoptable, table#usertoptable {
+	width: 800px;
+	height: 30px;
+}
+#parttoptable h3, #usertoptable h3 {
+	font-size: 20px;
+}
+table.partnotes {
+	margin-bottom: 8px;
+	background: #eee;
+	width: 400px;
+	padding: 5px;
+	overflow: none;
+}
+div.contactlinks {
+	margin-top: -5px;
+	margin-bottom: -8px;
+	margin-left: 4px;
+}
+
+.partinfo {
+	font-weight: bold;
+}
+.partinfo a {
+	font-weight: normal;
+	text-decoration: none;
+}
+.partinfo a:hover {
+	text-decoration: underline;
+}
+table.partcontact td {
+	padding: 1px;
+}
+span.parttd {
+	width: 200px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+div.userlinks {
+	font-size: 10pt;
+	width: 150px;
+	overflow: hidden;
+}
+div.news {
+	width: 600px;
+}
+div.news span.date {
+	text-decoration: underline;
+}
+ul.news li {
+	margin-bottom: 10px;
+}
+#searchtitle {
+	margin-top: -18px;
+	margin-bottom: 10px;
+}
+div.partlinks {
+	margin-left: 100px;
+}
+li.regions {
+	list-style-type: none;
+	margin-left: -40px;
+}
+tr.partbodyrow, tr.partbodyfirstrow {
+	height: 30px;
+}
+.parttd {
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 40px;
+	overflow: hidden;
+}
+.parttd.SFI, .parttd.NFP {
+	padding-left: 0px;
+}
+.partroweven {
+	background-color: #eee;
+}
+.floatleft {
+	float: left;
+}
+.clearboth {
+	clear: both;
+}
+div.addcontactlog {
+	padding: 5px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+div.partcontactlog {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+div.partcontactlog > table > tbody > tr > td {
+	height: 25px;
+}
+div.parttabs {
+	margin-left: 10px;
+}
+div.partdetails {
+	margin-left: 30px;
+}
+.partdetails table {
+	background-color: #eee;
+}
+span.regionembed {
+	font-weight: normal;
+	font-size: 11pt;
+	margin-left: 12px;
+}
+div.parttablinks, div.parttabs {
+	clear: both;
+}
+div.parttabs {
+	background-color: #eee;
+	margin-left: 0;
+}
+div.parttab {
+	position: absolute;
+	display: none;
+	margin-top: 0;
+	background-color: #eee;
+	height: 800px;
+	width: 900px;
+}
+.partcontacts table {
+	margin-left: 30px;
+	width: 800px;
+}
+.parttablink a {
+	color: black;
+}
+div.parttablink {
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	height: 14px;
+	width: 200px;
+	margin-bottom: 0;
+	padding: 10px;
+	float: left;
+}
+.parttablinkhilite {
+	background-color: #eee;
+}
+.floatleft {
+	float: left;
+}
+.partsurveys table tr {
+	vertical-align: top;
+}
+div.partblocktop {
+	width: 900px;
+	background-color: #eee;
+}
+div.partblocktop table {
+	width: 850px;
+}
+table.kidhide tr, 
+table.partcontacthide tr {
+	display: none;
+}
+table.kidhide tr.kidshow, 
+table.partcontacthide tr.partcontactshow {
+	display: block;
+}
+table.kidhide tr.kidshow td, 
+table.kidhide tr.kidshow th, 
+table.partcontacthide tr.partcontactshow td, 
+table.partcontacthide tr.partcontactshow th {
+	width: 850px;
+}
+table.partkids td {
+	padding-left: 20px;
+}
+a.contactlink, a.kidlink,
+a.hidekidlink, a.kidshowlink, 
+a.hideconlink, a.showconlink {
+	font-weight: normal;
+	text-decoration: none;
+}
+a.hidekidlink, 
+a.hideconlink {
+	display: none;
+}
