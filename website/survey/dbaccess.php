@@ -4,5 +4,5 @@ $database = 'ra';
 $hostname = 'localhost';
 $user = 'ra';
 $port = 3306;
-$password = 'qBGmjVTJjb';
+$password = '';
 
