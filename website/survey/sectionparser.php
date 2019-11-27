@@ -12,6 +12,9 @@ cq.  - context question (shows up as part of an answer)
 =\w+ (\S+)* 
      - macro with optional arguments
 =    - end of macro
+
+See the surveylanguage.txt file in this directory for more details.
+
 */
 # assumes function json_encode exists
 
