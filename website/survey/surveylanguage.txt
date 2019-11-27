@@ -1,5 +1,7 @@
 -=Survey writing notes=-
 
+Note: sectionparser.php in this directory implements this specification in PHP.
+
 A survey is a collection of sections. Each section is defined thus:
 
 s. Section title
