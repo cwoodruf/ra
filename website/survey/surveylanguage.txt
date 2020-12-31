@@ -185,7 +185,7 @@ MACRO PARAMETERS
 Macros can have parameters. A parameter is any sequence of
 non-space characters separated by spaces. Macro names can
 be used as paramter values and these will be evaluated.
-Use quotes to encapsulate macros with parameters. 
+Use quotes to encapsulate arguments with spaces. 
 Examples:
  =MACRO arg1 $arg2 "arg3"
  "arg3", arg1, $arg2,
